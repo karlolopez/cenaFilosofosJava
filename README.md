@@ -10,7 +10,7 @@
 
 
 
-##¿Ejecución?
+## ¿Ejecución?
 
 Este es un proyecto de Apache NETBEANS 11.2, sin embargo se puede correr y compilar la clase Cena.java:
 
