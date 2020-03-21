@@ -4,9 +4,10 @@
 **Profesor:** Sergio González Oliva
 
 **Integrantes:**
-David Galindo Hernández
-Sergio Jonathan Cabrera @cuyogordo
-Karlo Alejandro López @karlolopez
+- David Galindo Hernández
+- Sergio Jonathan Cabrera @cuyogordo
+- Karlo Alejandro López @karlolopez
+
 
 
 ##¿Ejecución?
