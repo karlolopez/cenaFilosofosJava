@@ -1,7 +1,9 @@
 # La Cena de los Filósofos.... en JAVA
 
 **Proyecto Integrador de la materia Sistemas Operativos, UVM ONLINE.**
+
 **Profesor:** Sergio González Oliva
+
 
 **Integrantes:**
 - David Galindo Hernández
